@@ -1,0 +1,179 @@
+* {
+  font-family: "Cairo", sans-serif;
+}
+
+.fotos {
+  height: 80vh;
+}
+
+.datos {
+  margin-left: 200px;
+  color: #51524C;
+}
+.datos ul li a {
+  color: #51524C;
+}
+
+.navbar div a {
+  padding-left: 120px;
+  color: #51524C;
+}
+
+.descripcion h3 {
+  color: #51524C;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+.descripcion p {
+  color: #777777;
+  padding-left: 30px;
+  padding-right: 30px;
+  line-height: 30px;
+}
+
+.cont h4 {
+  color: #51524C;
+  margin-top: 30px;
+}
+.cont h5 {
+  color: #333333;
+  padding-top: 60px;
+}
+.cont p {
+  color: #777777;
+  margin-top: 10px;
+}
+
+.black {
+  background-color: black;
+  height: 30vh;
+  margin-top: 180px;
+}
+.black .titulo-1 {
+  color: aliceblue;
+  padding-top: 60px;
+}
+.black .direccion {
+  color: aliceblue;
+  padding-top: 60px;
+}
+.black .email {
+  color: aliceblue;
+  padding-top: 60px;
+}
+
+.row span {
+  font-weight: 600;
+}
+
+.gray {
+  color: #51524C;
+  background-color: #c4c4c4;
+  height: 7vh;
+}
+.gray .cop {
+  top: 10px;
+}
+
+.titulo2 h2 {
+  color: #333333;
+  margin-top: 20px;
+}
+.titulo2 h3 {
+  color: #51524C;
+  margin-top: 30px;
+}
+.titulo2 p {
+  color: #777777;
+  padding-left: 30px;
+  padding-right: 30px;
+  line-height: 30px;
+}
+.titulo2 span {
+  color: #777777;
+  font-weight: 700;
+}
+
+.descripcion2 {
+  color: #777777;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.descripcion2 span {
+  font-weight: 700;
+}
+
+.areas h1 {
+  background-image: url(../img/areas.jpeg);
+  color: #51524C;
+  padding-top: 130px;
+  width: 100%;
+  height: 400px;
+}
+
+.titulos5 h5 {
+  color: #51524C;
+  padding-left: 70px;
+  margin-top: 40px;
+}
+.titulos5 ul li {
+  color: #777777;
+  padding-left: 70px;
+  list-style-type: none;
+  line-height: 30px;
+}
+
+.contacto1 {
+  padding-top: 20px;
+  color: #51524C;
+}
+
+.desc1 {
+  padding-top: 200px;
+}
+.desc1 h2 {
+  color: #51524C;
+}
+.desc1 .desc2 {
+  list-style: none;
+  padding-left: 200px;
+  line-height: 30px;
+}
+.desc1 .desc2 li {
+  color: #51524C;
+}
+
+.label3 {
+  color: #51524C;
+}
+.label3 textarea {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.icono {
+  height: 20vh;
+  padding-left: 270px;
+}
+
+.miembros .tmiem {
+  background-image: url(../img/miembros.jpeg);
+  height: 70vh;
+}
+.miembros h1 {
+  color: #333333;
+  padding-top: 170px;
+}
+.miembros h3 {
+  color: #333333;
+  padding-left: 100px;
+  padding-top: 40px;
+}
+.miembros p {
+  color: #777777;
+  padding-left: 100px;
+  padding-top: 20px;
+  line-height: 10px;
+}
+
+/*# sourceMappingURL=style.css.map */
